@@ -4,3 +4,6 @@ c:\users\undermove\documents\visual studio 2015\Projects\snake18\snake18\bin\Deb
 c:\users\undermove\documents\visual studio 2015\Projects\snake18\snake18\obj\Debug\snake18.csprojResolveAssemblyReference.cache
 c:\users\undermove\documents\visual studio 2015\Projects\snake18\snake18\obj\Debug\snake18.exe
 c:\users\undermove\documents\visual studio 2015\Projects\snake18\snake18\obj\Debug\snake18.pdb
+D:\Users\Taiiayo\snake18\bin\Debug\snake18.exe.config
+D:\Users\Taiiayo\snake18\obj\Debug\snake18.exe
+D:\Users\Taiiayo\snake18\obj\Debug\snake18.pdb

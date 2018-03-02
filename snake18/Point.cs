@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace snake18
 {
+    //justs
     class Point
     {
         public int x;
