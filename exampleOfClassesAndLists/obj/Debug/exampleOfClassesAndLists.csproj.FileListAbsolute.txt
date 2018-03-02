@@ -1,0 +1,6 @@
+c:\Users\undermove\documents\visual studio 2015\Projects\snake18\exampleOfClassesAndLists\bin\Debug\exampleOfClassesAndLists.exe.config
+c:\Users\undermove\documents\visual studio 2015\Projects\snake18\exampleOfClassesAndLists\bin\Debug\exampleOfClassesAndLists.exe
+c:\Users\undermove\documents\visual studio 2015\Projects\snake18\exampleOfClassesAndLists\bin\Debug\exampleOfClassesAndLists.pdb
+c:\Users\undermove\documents\visual studio 2015\Projects\snake18\exampleOfClassesAndLists\obj\Debug\exampleOfClassesAndLists.csprojResolveAssemblyReference.cache
+c:\Users\undermove\documents\visual studio 2015\Projects\snake18\exampleOfClassesAndLists\obj\Debug\exampleOfClassesAndLists.exe
+c:\Users\undermove\documents\visual studio 2015\Projects\snake18\exampleOfClassesAndLists\obj\Debug\exampleOfClassesAndLists.pdb
