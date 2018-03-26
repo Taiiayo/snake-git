@@ -13,6 +13,12 @@ namespace snake18
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(StringConstansClass.Hello);
+            Thread.Sleep(4000);
+
+            Console.Clear();
+
+
             Console.WindowHeight = 25;
             Console.WindowWidth = 80;
 
@@ -51,6 +57,11 @@ namespace snake18
                     snake.HandleKey(key.Key);
                 }
             }
+
+            Console.Clear();
+
+            Console.WriteLine(StringConstansClass.Bye);
+            Thread.Sleep(3000);
         }
     }
 }
